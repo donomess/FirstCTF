@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/FirstCTF/static/js/main.2a35a1a3.js",
+    "index.html": "/FirstCTF/index.html",
+    "main.2a35a1a3.js.map": "/FirstCTF/static/js/main.2a35a1a3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2a35a1a3.js"
+  ]
+}
